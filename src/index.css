@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.main:hover .submenu{
+  display: block;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
